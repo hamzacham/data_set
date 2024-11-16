@@ -51,3 +51,6 @@ Ce projet a permis de mettre en pratique des compétences en nettoyage de donné
 
 ## Auteur
 Hamza - [Ton profil GitHub](https://github.com/hamzacham)
+---
+**Keywords**: data analysis, pandas, cinema dataset, Python, data visualization, machine learning, jupyter_notebook, pandas 
+
