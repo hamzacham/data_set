@@ -36,7 +36,6 @@ Le jeu de données contient les informations suivantes  :
 
 ## Outils Utilisés
 - **Pandas** : Pour le nettoyage et la manipulation des données
-- **Matplotlib et Seaborn** : Pour les visualisations
 - **Jupyter Notebook** : Pour documenter et exécuter les analyses
 
 ## Résultats
